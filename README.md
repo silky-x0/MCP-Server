@@ -1,2 +1,2 @@
 # MCP-Server
-Wanna test MCP working
+Will be testing MCP working
