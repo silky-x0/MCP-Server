@@ -65,10 +65,12 @@ You can use MCP-Server as a custom tool in Claude Desktop (Anthropic's desktop a
 
 ## Screenshots
 
-> _Add screenshots of your terminal or client interacting with the MCP-Server here._
+> ![Tools](https://github.com/user-attachments/assets/80b74fff-7636-4a81-8007-15a7d3df6e28)
+
+> ![Query result](https://github.com/user-attachments/assets/9f1950b3-a557-45a4-8cbe-6a92b1ab0ec7)
+
 > 
-> Example:
-> ![Screenshot Placeholder](screenshots/example.png)
+> 
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
