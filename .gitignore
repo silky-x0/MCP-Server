@@ -26,6 +26,7 @@ Thumbs.db
 # Misc
 *.tgz
 .sass-cache/
+.gitignore
 
 # Optional: ignore screenshots if you don't want to track them
 # screenshots/ 
